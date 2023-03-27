@@ -16,7 +16,7 @@ p {
   margin-right: auto;
   margin-left: auto;
   font-family: Helvetica;
-  
+  overflow: hidden;
 }
 
  
@@ -147,7 +147,6 @@ span.menu.m3{
   }
 
  .col-md-12 p{
-    margin-left: 25px;
     width: 95%;
   }
 }
